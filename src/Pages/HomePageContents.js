@@ -1,7 +1,6 @@
 import React from 'react'
 
-
-function HomePageContents() {
+function CreateVideo() {
   return (
     <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
     <div className="hidden sm:mb-8 sm:flex sm:justify-center">
@@ -37,4 +36,4 @@ function HomePageContents() {
   )
 }
 
-export default HomePageContents
+export default CreateVideo
